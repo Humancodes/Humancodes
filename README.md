@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Vivek Yadav</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
-- 🌱 I’m currently learning **React , Flutter**
+- 🌱 I’m currently learning **React , Nodejs**
 
 - 💬 Ask me about **MERN**
 
